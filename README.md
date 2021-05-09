@@ -50,10 +50,10 @@
 
 ```
 
-![](Resources/all_stocks_analysis_2017.png)
+![](Resources/all_stocks_analysis_2017.PNG)
 
-![](Resources/all_stocks_analysis_refactored_2017.png)
+![](Resources/all_stocks_analysis_refactored_2017.PNG)
 
-![](Resources/all_stocks_analysis_2018.png)
+![](Resources/all_stocks_analysis_2018.PNG)
 
-![](Resources/all_stocks_analysis_refactored_2018.png)
+![](Resources/all_stocks_analysis_refactored_2018.PNG)

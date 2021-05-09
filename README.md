@@ -1,10 +1,10 @@
-# stocks-analysis
+# All Stocks Analysis
 
 ## Overview of Project
 
 ### Purpose
 
-###### The purpose of Module Two and the Stocks Analysis Challenge is to learn how to write and execute code in Visual Basic for Applications (VBA), how to refactor code in VBA, and the benefits of refactoring code in VBA.  For the Stocks Analysis Challenge, the original All Stocks Analysis code was refactored primarily by introducing tickerIndex as a variable. 
+###### The purpose of Module Two and the All Stocks Analysis Refactored Challenge is to learn how to write and execute code in Visual Basic for Applications (VBA), how to refactor code in VBA, and the benefits of refactoring code in VBA.  For the All Stocks Analysis Refactored Challenge, the original All Stocks Analysis code was refactored primarily by introducing tickerIndex as a variable and using it to loop through multiple arrays. 
 
 ## Results
 
@@ -75,4 +75,4 @@
 
 ## Summary
 
-###### In summary, advantages and disadvantages of refactoring code exist and in my opinion, exist on a case-by-case basis.  For example, an advantage of refactoring the All Stocks Analysis code improved the run time by approximately 79% allowing the user the benefit of time-efficiency. However a disadvantage of refactoring code would present itself if the original code did not include sufficient comments for the person refactoring the code.  Another disadvantage could exist if the person refactoring the code is not knowledgeable of how to successfully refactor the code therefore making the new code unusable.
+###### In summary, advantages and disadvantages of refactoring code exist and in my opinion, exist on a case-by-case basis.  For example, an advantage of refactoring the All Stocks Analysis code improved the run time by approximately 79% allowing the user the benefit of time-efficiency. However disadvantages of refactoring code are possible if sufficient comments are not used in the original script. This would make it difficult for a new person to refactor the original code because they might not be familiar with the original code's intent. Also it is possible for a new person refactoring the code to change the desired output of the script or break it completely. These pros and cons apply to the All Stocks Analysis Challenge because the elapsed run time definitely improved from .97 seconds run time to .20 seconds run time. As a new user of VBA, it was a difficult challenge for me to originally refactor the All Stocks Analysis code. There were countless days where the refactored code would not work and therefore making it impossible to run the analysis on the 2017 and 2018 stock data.  Finally, and with great help and support from my tutor, Mark Fullton, I persevered and was able to identify the gaps in my refactored script. 
